@@ -1,4 +1,4 @@
-package pl.sda.javaPoziom2.wzorceProektowe;
+package pl.sda.javaPoziom2.wzorceProektowe.builder;
 
 public class User {
     private String firstname;

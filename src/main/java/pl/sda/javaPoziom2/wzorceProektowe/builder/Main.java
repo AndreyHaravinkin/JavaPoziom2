@@ -1,4 +1,4 @@
-package pl.sda.javaPoziom2.wzorceProektowe;
+package pl.sda.javaPoziom2.wzorceProektowe.builder;
 
 public class Main {
     public static void main(String[] args) {
