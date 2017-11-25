@@ -14,6 +14,11 @@ public class Main {
       //  bigger_fruit_box_4();
        // generec_extends();
         generic_method_6();
+        generic_return_6();
+    }
+
+    private static void generic_return_6() {
+        
     }
 
     private static void generic_method_6() {
